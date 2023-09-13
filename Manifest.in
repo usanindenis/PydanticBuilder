@@ -1,0 +1,3 @@
+recursive-include PydanticBuilder/deps *
+recursive-include PydanticBuilder/wsdl *
+
